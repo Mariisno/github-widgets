@@ -1,0 +1,4 @@
+[
+  {"number":374,"title":"Example assigned issue","url":"https://github.com/your-org/app/issues/374","repository":{"name":"app","nameWithOwner":"your-org/app"},"isPullRequest":false},
+  {"number":13,"title":"A PR, not an issue","url":"https://github.com/your-org/design/pull/13","repository":{"name":"design","nameWithOwner":"your-org/design"},"isPullRequest":true}
+]

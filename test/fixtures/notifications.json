@@ -1,0 +1,4 @@
+[
+  {"reason":"mention","subject":{"title":"You were mentioned","type":"Issue","url":"https://api.github.com/repos/your-org/app/issues/142"},"repository":{"full_name":"your-org/app","owner":{"login":"your-org"}}},
+  {"reason":"subscribed","subject":{"title":"Something in another org","type":"Issue","url":"https://api.github.com/repos/other-org/repo/issues/1"},"repository":{"full_name":"other-org/repo","owner":{"login":"other-org"}}}
+]

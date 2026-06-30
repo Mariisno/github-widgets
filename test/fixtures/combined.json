@@ -1,0 +1,5 @@
+{"ok":true,"error":null,"updatedAt":"2026-06-30T14:32:00Z","updatedAtLocal":"14:32",
+ "notifications":[{"title":"You were mentioned","repo":"your-org/app","reason":"mention","url":"https://github.com/your-org/app/issues/142","project":null}],
+ "reviewRequested":[],
+ "myPullRequests":[{"number":13,"title":"feat: example pull request","repo":"your-org/design","url":"https://github.com/your-org/design/pull/13","project":"flow"}],
+ "assignedIssues":[{"number":374,"title":"Example assigned issue","repo":"your-org/app","url":"https://github.com/your-org/app/issues/374","project":"core"}]}

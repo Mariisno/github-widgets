@@ -1,0 +1,8 @@
+{"ok":true,"error":null,"updatedAtLocal":"14:33",
+ "notifications":[
+   {"title":"You were mentioned","repo":"your-org/app","reason":"mention","url":"https://github.com/your-org/app/issues/142"},
+   {"title":"PR awaiting your review","repo":"your-org/web","reason":"review_requested","url":"https://github.com/your-org/web/pull/3387"},
+   {"title":"Something you only subscribe to","repo":"your-org/app","reason":"subscribed","url":"https://github.com/your-org/app/issues/999"},
+   {"title":"Ny mention her","repo":"your-org/core-svc","reason":"mention","url":"https://github.com/your-org/core-svc/issues/500"}
+ ],
+ "reviewRequested":[],"myPullRequests":[],"assignedIssues":[]}

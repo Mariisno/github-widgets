@@ -1,0 +1,17 @@
+# Aldri commit GitHub-arbeidsdata
+*.json
+github-data.json
+.cache/
+
+# Lokal konfig (org + prosjekt-numre) — aldri publiser
+config.sh
+
+# Interne design-dokumenter — beholdes lokalt, publiseres ikke
+docs/
+
+# macOS
+.DS_Store
+
+# Gamle widget-eksperimenter (beholdes lokalt, publiseres ikke)
+ubersicht/github.jsx
+ubersicht/github-rings-small.jsx
